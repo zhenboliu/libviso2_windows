@@ -1,9 +1,9 @@
 # libviso2_windows (Windows 10, Visual Studio 2015)
 
 在Windows Visual Studio 平台上使用libviso2. 
--> 打开 `vo2_test.sln`
--> 修改demo.cpp 中双目图像文件所在路径
--> 运行程序
+ + 1. 打开 `vo2_test.sln`
+ + 2. 修改demo.cpp 中双目图像文件所在路径
+ + 3. 运行程序
 
 
 
